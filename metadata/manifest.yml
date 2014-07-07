@@ -13,8 +13,8 @@ Compatible-Versions:
 - 0.0.10
 - 0.0.11
 - 0.0.12
-Cartridge-Vendor: redhat
-Vendor: redhat
+Cartridge-Vendor: webratio
+Vendor: webratio
 Categories:
 - web_framework
 - experimental
@@ -24,6 +24,7 @@ Help-Topics:
 Provides:
 - diy-0.1
 - diy
+Source-Url: https://github.com/marcellodionisiowr/openshift-diywr-cartridge.git
 Publishes: 
 Subscribes:
   set-env:
